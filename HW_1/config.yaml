@@ -1,0 +1,7 @@
+login: polisharik
+password: 06665317f8
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+title: title_test_post
+description: description_test_post
+content: content_test_post
