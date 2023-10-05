@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+login: polisharik
+password: 06665317f8
+driver_path: C:\Users\Mi\chromedriver.exe
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+title: title_test_post
+description: description_test_post
+content: content_test_post
+find_id: 17027
+mail_password: LT7zT7uoJ8V6WQj47oho
+fromaddr_report: testmailtempreal@mail.ru
+toaddr_report: veozdok@gmail.com
